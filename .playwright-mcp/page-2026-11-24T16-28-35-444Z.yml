@@ -1,0 +1,788 @@
+- main [ref=e3]:
+  - generic [ref=e4]:
+    - navigation "Primary" [ref=e6]:
+      - link "About" [ref=e7] [cursor=pointer]:
+        - /url: "#about"
+      - link "Projects" [ref=e8] [cursor=pointer]:
+        - /url: "#projects"
+      - button "Contact" [ref=e9] [cursor=pointer]
+    - heading "Hi, i’m Yooyoung" [level=1] [ref=e12]
+    - img "Portrait" [ref=e16]
+    - generic [ref=e17]:
+      - paragraph [ref=e19]: a UX/UI designer driven by crafting striking and unforgettable projects
+      - button "Contact Me" [ref=e23] [cursor=pointer]
+  - generic [ref=e25]:
+    - generic [ref=e26]:
+      - img "3D motion showcase 1" [ref=e28]
+      - img "3D motion showcase 2" [ref=e30]
+      - img "3D motion showcase 3" [ref=e32]
+      - img "3D motion showcase 4" [ref=e34]
+      - img "3D motion showcase 5" [ref=e36]
+      - img "3D motion showcase 6" [ref=e38]
+      - img "3D motion showcase 7" [ref=e40]
+      - img "3D motion showcase 8" [ref=e42]
+      - img "3D motion showcase 9" [ref=e44]
+      - img "3D motion showcase 10" [ref=e46]
+      - img "3D motion showcase 11" [ref=e48]
+      - img "3D motion showcase 1" [ref=e50]
+      - img "3D motion showcase 2" [ref=e52]
+      - img "3D motion showcase 3" [ref=e54]
+      - img "3D motion showcase 4" [ref=e56]
+      - img "3D motion showcase 5" [ref=e58]
+      - img "3D motion showcase 6" [ref=e60]
+      - img "3D motion showcase 7" [ref=e62]
+      - img "3D motion showcase 8" [ref=e64]
+      - img "3D motion showcase 9" [ref=e66]
+      - img "3D motion showcase 10" [ref=e68]
+      - img "3D motion showcase 11" [ref=e70]
+      - img "3D motion showcase 1" [ref=e72]
+      - img "3D motion showcase 2" [ref=e74]
+      - img "3D motion showcase 3" [ref=e76]
+      - img "3D motion showcase 4" [ref=e78]
+      - img "3D motion showcase 5" [ref=e80]
+      - img "3D motion showcase 6" [ref=e82]
+      - img "3D motion showcase 7" [ref=e84]
+      - img "3D motion showcase 8" [ref=e86]
+      - img "3D motion showcase 9" [ref=e88]
+      - img "3D motion showcase 10" [ref=e90]
+      - img "3D motion showcase 11" [ref=e92]
+    - generic [ref=e93]:
+      - img "3D design preview 12" [ref=e95]
+      - img "3D design preview 13" [ref=e97]
+      - img "3D design preview 14" [ref=e99]
+      - img "3D design preview 15" [ref=e101]
+      - img "3D design preview 16" [ref=e103]
+      - img "3D design preview 17" [ref=e105]
+      - img "3D design preview 18" [ref=e107]
+      - img "3D design preview 19" [ref=e109]
+      - img "3D design preview 20" [ref=e111]
+      - img "3D design preview 21" [ref=e113]
+      - img "3D design preview 12" [ref=e115]
+      - img "3D design preview 13" [ref=e117]
+      - img "3D design preview 14" [ref=e119]
+      - img "3D design preview 15" [ref=e121]
+      - img "3D design preview 16" [ref=e123]
+      - img "3D design preview 17" [ref=e125]
+      - img "3D design preview 18" [ref=e127]
+      - img "3D design preview 19" [ref=e129]
+      - img "3D design preview 20" [ref=e131]
+      - img "3D design preview 21" [ref=e133]
+      - img "3D design preview 12" [ref=e135]
+      - img "3D design preview 13" [ref=e137]
+      - img "3D design preview 14" [ref=e139]
+      - img "3D design preview 15" [ref=e141]
+      - img "3D design preview 16" [ref=e143]
+      - img "3D design preview 17" [ref=e145]
+      - img "3D design preview 18" [ref=e147]
+      - img "3D design preview 19" [ref=e149]
+      - img "3D design preview 20" [ref=e151]
+      - img "3D design preview 21" [ref=e153]
+  - generic [ref=e155]:
+    - generic [ref=e156]:
+      - heading "About me" [level=2] [ref=e158]
+      - paragraph [ref=e159]:
+        - generic [ref=e160]:
+          - generic [ref=e161]:
+            - text: W
+            - generic [aria-hidden] [ref=e162]: W
+          - generic [ref=e163]:
+            - text: i
+            - generic [aria-hidden] [ref=e164]: i
+          - generic [ref=e165]:
+            - text: t
+            - generic [aria-hidden] [ref=e166]: t
+          - generic [ref=e167]:
+            - text: h
+            - generic [aria-hidden] [ref=e168]: h
+        - generic [ref=e169]:
+          - generic [ref=e170]:
+            - text: m
+            - generic [aria-hidden] [ref=e171]: m
+          - generic [ref=e172]:
+            - text: o
+            - generic [aria-hidden] [ref=e173]: o
+          - generic [ref=e174]:
+            - text: r
+            - generic [aria-hidden] [ref=e175]: r
+          - generic [ref=e176]:
+            - text: e
+            - generic [aria-hidden] [ref=e177]: e
+        - generic [ref=e178]:
+          - generic [ref=e179]:
+            - text: t
+            - generic [aria-hidden] [ref=e180]: t
+          - generic [ref=e181]:
+            - text: h
+            - generic [aria-hidden] [ref=e182]: h
+          - generic [ref=e183]:
+            - text: a
+            - generic [aria-hidden] [ref=e184]: a
+          - generic [ref=e185]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e186]: "n"
+        - generic [ref=e187]:
+          - generic [ref=e188]:
+            - text: f
+            - generic [aria-hidden] [ref=e189]: f
+          - generic [ref=e190]:
+            - text: i
+            - generic [aria-hidden] [ref=e191]: i
+          - generic [ref=e192]:
+            - text: v
+            - generic [aria-hidden] [ref=e193]: v
+          - generic [ref=e194]:
+            - text: e
+            - generic [aria-hidden] [ref=e195]: e
+        - generic [ref=e196]:
+          - generic [ref=e197]:
+            - text: "y"
+            - generic [aria-hidden] [ref=e198]: "y"
+          - generic [ref=e199]:
+            - text: e
+            - generic [aria-hidden] [ref=e200]: e
+          - generic [ref=e201]:
+            - text: a
+            - generic [aria-hidden] [ref=e202]: a
+          - generic [ref=e203]:
+            - text: r
+            - generic [aria-hidden] [ref=e204]: r
+          - generic [ref=e205]:
+            - text: s
+            - generic [aria-hidden] [ref=e206]: s
+        - generic [ref=e207]:
+          - generic [ref=e208]:
+            - text: o
+            - generic [aria-hidden] [ref=e209]: o
+          - generic [ref=e210]:
+            - text: f
+            - generic [aria-hidden] [ref=e211]: f
+        - generic [ref=e212]:
+          - generic [ref=e213]:
+            - text: e
+            - generic [aria-hidden] [ref=e214]: e
+          - generic [ref=e215]:
+            - text: x
+            - generic [aria-hidden] [ref=e216]: x
+          - generic [ref=e217]:
+            - text: p
+            - generic [aria-hidden] [ref=e218]: p
+          - generic [ref=e219]:
+            - text: e
+            - generic [aria-hidden] [ref=e220]: e
+          - generic [ref=e221]:
+            - text: r
+            - generic [aria-hidden] [ref=e222]: r
+          - generic [ref=e223]:
+            - text: i
+            - generic [aria-hidden] [ref=e224]: i
+          - generic [ref=e225]:
+            - text: e
+            - generic [aria-hidden] [ref=e226]: e
+          - generic [ref=e227]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e228]: "n"
+          - generic [ref=e229]:
+            - text: c
+            - generic [aria-hidden] [ref=e230]: c
+          - generic [ref=e231]:
+            - text: e
+            - generic [aria-hidden] [ref=e232]: e
+        - generic [ref=e233]:
+          - generic [ref=e234]:
+            - text: i
+            - generic [aria-hidden] [ref=e235]: i
+          - generic [ref=e236]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e237]: "n"
+        - generic [ref=e238]:
+          - generic [ref=e239]:
+            - text: d
+            - generic [aria-hidden] [ref=e240]: d
+          - generic [ref=e241]:
+            - text: e
+            - generic [aria-hidden] [ref=e242]: e
+          - generic [ref=e243]:
+            - text: s
+            - generic [aria-hidden] [ref=e244]: s
+          - generic [ref=e245]:
+            - text: i
+            - generic [aria-hidden] [ref=e246]: i
+          - generic [ref=e247]:
+            - text: g
+            - generic [aria-hidden] [ref=e248]: g
+          - generic [ref=e249]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e250]: "n"
+          - generic [ref=e251]:
+            - text: ","
+            - generic [aria-hidden] [ref=e252]: ","
+        - generic [ref=e254]:
+          - text: i
+          - generic [aria-hidden] [ref=e255]: i
+        - generic [ref=e256]:
+          - generic [ref=e257]:
+            - text: f
+            - generic [aria-hidden] [ref=e258]: f
+          - generic [ref=e259]:
+            - text: o
+            - generic [aria-hidden] [ref=e260]: o
+          - generic [ref=e261]:
+            - text: c
+            - generic [aria-hidden] [ref=e262]: c
+          - generic [ref=e263]:
+            - text: u
+            - generic [aria-hidden] [ref=e264]: u
+          - generic [ref=e265]:
+            - text: s
+            - generic [aria-hidden] [ref=e266]: s
+        - generic [ref=e267]:
+          - generic [ref=e268]:
+            - text: o
+            - generic [aria-hidden] [ref=e269]: o
+          - generic [ref=e270]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e271]: "n"
+        - generic [ref=e272]:
+          - generic [ref=e273]:
+            - text: b
+            - generic [aria-hidden] [ref=e274]: b
+          - generic [ref=e275]:
+            - text: r
+            - generic [aria-hidden] [ref=e276]: r
+          - generic [ref=e277]:
+            - text: a
+            - generic [aria-hidden] [ref=e278]: a
+          - generic [ref=e279]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e280]: "n"
+          - generic [ref=e281]:
+            - text: d
+            - generic [aria-hidden] [ref=e282]: d
+          - generic [ref=e283]:
+            - text: i
+            - generic [aria-hidden] [ref=e284]: i
+          - generic [ref=e285]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e286]: "n"
+          - generic [ref=e287]:
+            - text: g
+            - generic [aria-hidden] [ref=e288]: g
+          - generic [ref=e289]:
+            - text: ","
+            - generic [aria-hidden] [ref=e290]: ","
+        - generic [ref=e291]:
+          - generic [ref=e292]:
+            - text: w
+            - generic [aria-hidden] [ref=e293]: w
+          - generic [ref=e294]:
+            - text: e
+            - generic [aria-hidden] [ref=e295]: e
+          - generic [ref=e296]:
+            - text: b
+            - generic [aria-hidden] [ref=e297]: b
+        - generic [ref=e298]:
+          - generic [ref=e299]:
+            - text: d
+            - generic [aria-hidden] [ref=e300]: d
+          - generic [ref=e301]:
+            - text: e
+            - generic [aria-hidden] [ref=e302]: e
+          - generic [ref=e303]:
+            - text: s
+            - generic [aria-hidden] [ref=e304]: s
+          - generic [ref=e305]:
+            - text: i
+            - generic [aria-hidden] [ref=e306]: i
+          - generic [ref=e307]:
+            - text: g
+            - generic [aria-hidden] [ref=e308]: g
+          - generic [ref=e309]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e310]: "n"
+          - generic [ref=e311]:
+            - text: ","
+            - generic [aria-hidden] [ref=e312]: ","
+        - generic [ref=e313]:
+          - generic [ref=e314]:
+            - text: a
+            - generic [aria-hidden] [ref=e315]: a
+          - generic [ref=e316]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e317]: "n"
+          - generic [ref=e318]:
+            - text: d
+            - generic [aria-hidden] [ref=e319]: d
+        - generic [ref=e320]:
+          - generic [ref=e321]:
+            - text: u
+            - generic [aria-hidden] [ref=e322]: u
+          - generic [ref=e323]:
+            - text: s
+            - generic [aria-hidden] [ref=e324]: s
+          - generic [ref=e325]:
+            - text: e
+            - generic [aria-hidden] [ref=e326]: e
+          - generic [ref=e327]:
+            - text: r
+            - generic [aria-hidden] [ref=e328]: r
+        - generic [ref=e329]:
+          - generic [ref=e330]:
+            - text: e
+            - generic [aria-hidden] [ref=e331]: e
+          - generic [ref=e332]:
+            - text: x
+            - generic [aria-hidden] [ref=e333]: x
+          - generic [ref=e334]:
+            - text: p
+            - generic [aria-hidden] [ref=e335]: p
+          - generic [ref=e336]:
+            - text: e
+            - generic [aria-hidden] [ref=e337]: e
+          - generic [ref=e338]:
+            - text: r
+            - generic [aria-hidden] [ref=e339]: r
+          - generic [ref=e340]:
+            - text: i
+            - generic [aria-hidden] [ref=e341]: i
+          - generic [ref=e342]:
+            - text: e
+            - generic [aria-hidden] [ref=e343]: e
+          - generic [ref=e344]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e345]: "n"
+          - generic [ref=e346]:
+            - text: c
+            - generic [aria-hidden] [ref=e347]: c
+          - generic [ref=e348]:
+            - text: e
+            - generic [aria-hidden] [ref=e349]: e
+          - generic [ref=e350]:
+            - text: ","
+            - generic [aria-hidden] [ref=e351]: ","
+        - generic [ref=e353]:
+          - text: i
+          - generic [aria-hidden] [ref=e354]: i
+        - generic [ref=e355]:
+          - generic [ref=e356]:
+            - text: t
+            - generic [aria-hidden] [ref=e357]: t
+          - generic [ref=e358]:
+            - text: r
+            - generic [aria-hidden] [ref=e359]: r
+          - generic [ref=e360]:
+            - text: u
+            - generic [aria-hidden] [ref=e361]: u
+          - generic [ref=e362]:
+            - text: l
+            - generic [aria-hidden] [ref=e363]: l
+          - generic [ref=e364]:
+            - text: "y"
+            - generic [aria-hidden] [ref=e365]: "y"
+        - generic [ref=e366]:
+          - generic [ref=e367]:
+            - text: e
+            - generic [aria-hidden] [ref=e368]: e
+          - generic [ref=e369]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e370]: "n"
+          - generic [ref=e371]:
+            - text: j
+            - generic [aria-hidden] [ref=e372]: j
+          - generic [ref=e373]:
+            - text: o
+            - generic [aria-hidden] [ref=e374]: o
+          - generic [ref=e375]:
+            - text: "y"
+            - generic [aria-hidden] [ref=e376]: "y"
+        - generic [ref=e377]:
+          - generic [ref=e378]:
+            - text: w
+            - generic [aria-hidden] [ref=e379]: w
+          - generic [ref=e380]:
+            - text: o
+            - generic [aria-hidden] [ref=e381]: o
+          - generic [ref=e382]:
+            - text: r
+            - generic [aria-hidden] [ref=e383]: r
+          - generic [ref=e384]:
+            - text: k
+            - generic [aria-hidden] [ref=e385]: k
+          - generic [ref=e386]:
+            - text: i
+            - generic [aria-hidden] [ref=e387]: i
+          - generic [ref=e388]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e389]: "n"
+          - generic [ref=e390]:
+            - text: g
+            - generic [aria-hidden] [ref=e391]: g
+        - generic [ref=e392]:
+          - generic [ref=e393]:
+            - text: w
+            - generic [aria-hidden] [ref=e394]: w
+          - generic [ref=e395]:
+            - text: i
+            - generic [aria-hidden] [ref=e396]: i
+          - generic [ref=e397]:
+            - text: t
+            - generic [aria-hidden] [ref=e398]: t
+          - generic [ref=e399]:
+            - text: h
+            - generic [aria-hidden] [ref=e400]: h
+        - generic [ref=e401]:
+          - generic [ref=e402]:
+            - text: b
+            - generic [aria-hidden] [ref=e403]: b
+          - generic [ref=e404]:
+            - text: u
+            - generic [aria-hidden] [ref=e405]: u
+          - generic [ref=e406]:
+            - text: s
+            - generic [aria-hidden] [ref=e407]: s
+          - generic [ref=e408]:
+            - text: i
+            - generic [aria-hidden] [ref=e409]: i
+          - generic [ref=e410]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e411]: "n"
+          - generic [ref=e412]:
+            - text: e
+            - generic [aria-hidden] [ref=e413]: e
+          - generic [ref=e414]:
+            - text: s
+            - generic [aria-hidden] [ref=e415]: s
+          - generic [ref=e416]:
+            - text: s
+            - generic [aria-hidden] [ref=e417]: s
+          - generic [ref=e418]:
+            - text: e
+            - generic [aria-hidden] [ref=e419]: e
+          - generic [ref=e420]:
+            - text: s
+            - generic [aria-hidden] [ref=e421]: s
+        - generic [ref=e422]:
+          - generic [ref=e423]:
+            - text: t
+            - generic [aria-hidden] [ref=e424]: t
+          - generic [ref=e425]:
+            - text: h
+            - generic [aria-hidden] [ref=e426]: h
+          - generic [ref=e427]:
+            - text: a
+            - generic [aria-hidden] [ref=e428]: a
+          - generic [ref=e429]:
+            - text: t
+            - generic [aria-hidden] [ref=e430]: t
+        - generic [ref=e431]:
+          - generic [ref=e432]:
+            - text: a
+            - generic [aria-hidden] [ref=e433]: a
+          - generic [ref=e434]:
+            - text: i
+            - generic [aria-hidden] [ref=e435]: i
+          - generic [ref=e436]:
+            - text: m
+            - generic [aria-hidden] [ref=e437]: m
+        - generic [ref=e438]:
+          - generic [ref=e439]:
+            - text: t
+            - generic [aria-hidden] [ref=e440]: t
+          - generic [ref=e441]:
+            - text: o
+            - generic [aria-hidden] [ref=e442]: o
+        - generic [ref=e443]:
+          - generic [ref=e444]:
+            - text: s
+            - generic [aria-hidden] [ref=e445]: s
+          - generic [ref=e446]:
+            - text: t
+            - generic [aria-hidden] [ref=e447]: t
+          - generic [ref=e448]:
+            - text: a
+            - generic [aria-hidden] [ref=e449]: a
+          - generic [ref=e450]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e451]: "n"
+          - generic [ref=e452]:
+            - text: d
+            - generic [aria-hidden] [ref=e453]: d
+        - generic [ref=e454]:
+          - generic [ref=e455]:
+            - text: o
+            - generic [aria-hidden] [ref=e456]: o
+          - generic [ref=e457]:
+            - text: u
+            - generic [aria-hidden] [ref=e458]: u
+          - generic [ref=e459]:
+            - text: t
+            - generic [aria-hidden] [ref=e460]: t
+        - generic [ref=e461]:
+          - generic [ref=e462]:
+            - text: a
+            - generic [aria-hidden] [ref=e463]: a
+          - generic [ref=e464]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e465]: "n"
+          - generic [ref=e466]:
+            - text: d
+            - generic [aria-hidden] [ref=e467]: d
+        - generic [ref=e468]:
+          - generic [ref=e469]:
+            - text: p
+            - generic [aria-hidden] [ref=e470]: p
+          - generic [ref=e471]:
+            - text: r
+            - generic [aria-hidden] [ref=e472]: r
+          - generic [ref=e473]:
+            - text: e
+            - generic [aria-hidden] [ref=e474]: e
+          - generic [ref=e475]:
+            - text: s
+            - generic [aria-hidden] [ref=e476]: s
+          - generic [ref=e477]:
+            - text: e
+            - generic [aria-hidden] [ref=e478]: e
+          - generic [ref=e479]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e480]: "n"
+          - generic [ref=e481]:
+            - text: t
+            - generic [aria-hidden] [ref=e482]: t
+        - generic [ref=e483]:
+          - generic [ref=e484]:
+            - text: t
+            - generic [aria-hidden] [ref=e485]: t
+          - generic [ref=e486]:
+            - text: h
+            - generic [aria-hidden] [ref=e487]: h
+          - generic [ref=e488]:
+            - text: e
+            - generic [aria-hidden] [ref=e489]: e
+          - generic [ref=e490]:
+            - text: i
+            - generic [aria-hidden] [ref=e491]: i
+          - generic [ref=e492]:
+            - text: r
+            - generic [aria-hidden] [ref=e493]: r
+        - generic [ref=e494]:
+          - generic [ref=e495]:
+            - text: b
+            - generic [aria-hidden] [ref=e496]: b
+          - generic [ref=e497]:
+            - text: e
+            - generic [aria-hidden] [ref=e498]: e
+          - generic [ref=e499]:
+            - text: s
+            - generic [aria-hidden] [ref=e500]: s
+          - generic [ref=e501]:
+            - text: t
+            - generic [aria-hidden] [ref=e502]: t
+        - generic [ref=e503]:
+          - generic [ref=e504]:
+            - text: i
+            - generic [aria-hidden] [ref=e505]: i
+          - generic [ref=e506]:
+            - text: m
+            - generic [aria-hidden] [ref=e507]: m
+          - generic [ref=e508]:
+            - text: a
+            - generic [aria-hidden] [ref=e509]: a
+          - generic [ref=e510]:
+            - text: g
+            - generic [aria-hidden] [ref=e511]: g
+          - generic [ref=e512]:
+            - text: e
+            - generic [aria-hidden] [ref=e513]: e
+          - generic [ref=e514]:
+            - text: .
+            - generic [aria-hidden] [ref=e515]: .
+        - generic [ref=e516]:
+          - generic [ref=e517]:
+            - text: L
+            - generic [aria-hidden] [ref=e518]: L
+          - generic [ref=e519]:
+            - text: e
+            - generic [aria-hidden] [ref=e520]: e
+          - generic [ref=e521]:
+            - text: t
+            - generic [aria-hidden] [ref=e522]: t
+          - generic [ref=e523]:
+            - text: "'"
+            - generic [aria-hidden] [ref=e524]: "'"
+          - generic [ref=e525]:
+            - text: s
+            - generic [aria-hidden] [ref=e526]: s
+        - generic [ref=e527]:
+          - generic [ref=e528]:
+            - text: b
+            - generic [aria-hidden] [ref=e529]: b
+          - generic [ref=e530]:
+            - text: u
+            - generic [aria-hidden] [ref=e531]: u
+          - generic [ref=e532]:
+            - text: i
+            - generic [aria-hidden] [ref=e533]: i
+          - generic [ref=e534]:
+            - text: l
+            - generic [aria-hidden] [ref=e535]: l
+          - generic [ref=e536]:
+            - text: d
+            - generic [aria-hidden] [ref=e537]: d
+        - generic [ref=e538]:
+          - generic [ref=e539]:
+            - text: s
+            - generic [aria-hidden] [ref=e540]: s
+          - generic [ref=e541]:
+            - text: o
+            - generic [aria-hidden] [ref=e542]: o
+          - generic [ref=e543]:
+            - text: m
+            - generic [aria-hidden] [ref=e544]: m
+          - generic [ref=e545]:
+            - text: e
+            - generic [aria-hidden] [ref=e546]: e
+          - generic [ref=e547]:
+            - text: t
+            - generic [aria-hidden] [ref=e548]: t
+          - generic [ref=e549]:
+            - text: h
+            - generic [aria-hidden] [ref=e550]: h
+          - generic [ref=e551]:
+            - text: i
+            - generic [aria-hidden] [ref=e552]: i
+          - generic [ref=e553]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e554]: "n"
+          - generic [ref=e555]:
+            - text: g
+            - generic [aria-hidden] [ref=e556]: g
+        - generic [ref=e557]:
+          - generic [ref=e558]:
+            - text: i
+            - generic [aria-hidden] [ref=e559]: i
+          - generic [ref=e560]:
+            - text: "n"
+            - generic [aria-hidden] [ref=e561]: "n"
+          - generic [ref=e562]:
+            - text: c
+            - generic [aria-hidden] [ref=e563]: c
+          - generic [ref=e564]:
+            - text: r
+            - generic [aria-hidden] [ref=e565]: r
+          - generic [ref=e566]:
+            - text: e
+            - generic [aria-hidden] [ref=e567]: e
+          - generic [ref=e568]:
+            - text: d
+            - generic [aria-hidden] [ref=e569]: d
+          - generic [ref=e570]:
+            - text: i
+            - generic [aria-hidden] [ref=e571]: i
+          - generic [ref=e572]:
+            - text: b
+            - generic [aria-hidden] [ref=e573]: b
+          - generic [ref=e574]:
+            - text: l
+            - generic [aria-hidden] [ref=e575]: l
+          - generic [ref=e576]:
+            - text: e
+            - generic [aria-hidden] [ref=e577]: e
+        - generic [ref=e578]:
+          - generic [ref=e579]:
+            - text: t
+            - generic [aria-hidden] [ref=e580]: t
+          - generic [ref=e581]:
+            - text: o
+            - generic [aria-hidden] [ref=e582]: o
+          - generic [ref=e583]:
+            - text: g
+            - generic [aria-hidden] [ref=e584]: g
+          - generic [ref=e585]:
+            - text: e
+            - generic [aria-hidden] [ref=e586]: e
+          - generic [ref=e587]:
+            - text: t
+            - generic [aria-hidden] [ref=e588]: t
+          - generic [ref=e589]:
+            - text: h
+            - generic [aria-hidden] [ref=e590]: h
+          - generic [ref=e591]:
+            - text: e
+            - generic [aria-hidden] [ref=e592]: e
+          - generic [ref=e593]:
+            - text: r
+            - generic [aria-hidden] [ref=e594]: r
+          - generic [ref=e595]:
+            - text: "!"
+            - generic [aria-hidden] [ref=e596]: "!"
+    - button "Contact Me" [ref=e600] [cursor=pointer]
+  - generic [ref=e601]:
+    - heading "Services" [level=2] [ref=e603]
+    - generic [ref=e604]:
+      - generic [ref=e606]:
+        - generic [ref=e607]: "01"
+        - generic [ref=e608]:
+          - heading "3D Modeling" [level=3] [ref=e609]
+          - paragraph [ref=e610]: Creation of detailed objects, characters, or environments tailored to specific client needs, ideal for games, products, and visualizations.
+      - generic [ref=e612]:
+        - generic [ref=e613]: "02"
+        - generic [ref=e614]:
+          - heading "Rendering" [level=3] [ref=e615]
+          - paragraph [ref=e616]: High-quality, photorealistic renders that showcase designs with custom lighting, textures, and materials to bring concepts to life.
+      - generic [ref=e618]:
+        - generic [ref=e619]: "03"
+        - generic [ref=e620]:
+          - heading "Motion Design" [level=3] [ref=e621]
+          - paragraph [ref=e622]: Dynamic animations and motion graphics that add energy and storytelling to brands, products, and digital experiences.
+      - generic [ref=e624]:
+        - generic [ref=e625]: "04"
+        - generic [ref=e626]:
+          - heading "Branding" [level=3] [ref=e627]
+          - paragraph [ref=e628]: Crafting cohesive visual identities -- from logos to full brand systems -- that communicate a clear and memorable presence.
+      - generic [ref=e630]:
+        - generic [ref=e631]: "05"
+        - generic [ref=e632]:
+          - heading "Web Design" [level=3] [ref=e633]
+          - paragraph [ref=e634]: Designing clean, modern, and conversion-focused websites with attention to layout, typography, and user experience.
+  - generic [ref=e635]:
+    - heading "Project" [level=2] [ref=e637]
+    - generic [ref=e638]:
+      - article [ref=e641]:
+        - generic [ref=e642]:
+          - generic [ref=e643]:
+            - generic [ref=e644]: "01"
+            - generic [ref=e645]:
+              - generic [ref=e646]: Client
+              - heading "Nextlevel Studio" [level=3] [ref=e647]
+          - button "Live Project" [ref=e649] [cursor=pointer]
+        - generic [ref=e650]:
+          - generic [ref=e651]:
+            - img "Nextlevel Studio preview 1" [ref=e653]
+            - img "Nextlevel Studio preview 2" [ref=e655]
+          - img "Nextlevel Studio showcase" [ref=e658]
+      - article [ref=e661]:
+        - generic [ref=e662]:
+          - generic [ref=e663]:
+            - generic [ref=e664]: "02"
+            - generic [ref=e665]:
+              - generic [ref=e666]: Personal
+              - heading "Aura Brand Identity" [level=3] [ref=e667]
+          - button "Live Project" [ref=e669] [cursor=pointer]
+        - generic [ref=e670]:
+          - generic [ref=e671]:
+            - img "Aura Brand Identity preview 1" [ref=e673]
+            - img "Aura Brand Identity preview 2" [ref=e675]
+          - img "Aura Brand Identity showcase" [ref=e678]
+      - article [ref=e681]:
+        - generic [ref=e682]:
+          - generic [ref=e683]:
+            - generic [ref=e684]: "03"
+            - generic [ref=e685]:
+              - generic [ref=e686]: Client
+              - heading "Solaris Digital" [level=3] [ref=e687]
+          - button "Live Project" [ref=e689] [cursor=pointer]
+        - generic [ref=e690]:
+          - generic [ref=e691]:
+            - img "Solaris Digital preview 1" [ref=e693]
+            - img "Solaris Digital preview 2" [ref=e695]
+          - img "Solaris Digital showcase" [ref=e698]
