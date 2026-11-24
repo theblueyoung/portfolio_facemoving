@@ -25,7 +25,6 @@ No environment variables or API keys are required to run or build the current fr
   - `left.png`, `right.png` — horizontal eye-gaze frames
   - `pain.png` — face press/drag expression
   - `chu.png` — mouth hover expression
-  - `pink.png`, `purple.png` — unused (hair-color switching removed)
 - `src/index.css`: Tailwind CSS v4 (`@import "tailwindcss";`), base resets inside `@layer base`, gradient `.hero-heading` styling, and `.hero-portrait-wrap` / `#faceGl` / `#faceProps` positioning.
 - `src/App.tsx`: Main page composition (`HeroSection`, `MarqueeSection`, `AboutSection`, `ServicesSection`, `ProjectsSection`, `ProjectModal`, `ContactModal`).
 - `src/components/`:
