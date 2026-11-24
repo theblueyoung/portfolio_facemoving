@@ -30,12 +30,11 @@
         // picture of the same face; the code only decides which one to show and makes the skin move.
         (() => {
           const url = id => '/face/' + id + '.png';
-          const IDS = {"left":"right","closed":"closed","shock":"pain","tongue":"rest","right":"left","downleft":"right","upright":"left","up":"rest","downright":"left","down":"rest","half":"rest","cross":"rest","angry":"pain","scrunch":"pain","winkr":"rest","winkl":"rest","raised":"rest","puff":"rest","laugh":"rest","yawn":"rest","grin":"rest","kiss":"chu","cry":"rest","smug":"rest","scared":"pain","fish":"rest","blue":"rest","dizzy":"pain","blonde":"rest","pink":"pink","purple":"purple","wind":"rest","sse":"rest","nnw":"rest","ese":"left","ene":"left","wnw":"right","ssw":"rest","wsw":"right","ouch":"pain","deadpan":"rest","yawn1":"rest","yawn2":"rest","whistle1":"rest","nne":"rest","yawn4":"rest","sneeze1":"rest","gum1":"rest","gum2":"rest","whistle2":"rest","sneeze2":"rest","gum3":"rest","gumpop":"rest","hearts":"rest","stars":"rest","snore":"rest","shy":"rest","sick":"rest","pain":"pain","chu":"chu","rest":"rest"};
+          const IDS = {"left":"right","closed":"closed","shock":"pain","tongue":"rest","right":"left","downleft":"right","upright":"left","up":"rest","downright":"left","down":"rest","half":"rest","cross":"rest","angry":"pain","scrunch":"pain","winkr":"rest","winkl":"rest","raised":"rest","puff":"rest","laugh":"rest","yawn":"rest","grin":"rest","kiss":"chu","cry":"rest","smug":"rest","scared":"pain","fish":"rest","blue":"rest","dizzy":"pain","blonde":"rest","pink":"rest","purple":"rest","wind":"rest","sse":"rest","nnw":"rest","ese":"left","ene":"left","wnw":"right","ssw":"rest","wsw":"right","ouch":"pain","deadpan":"rest","yawn1":"rest","yawn2":"rest","whistle1":"rest","nne":"rest","yawn4":"rest","sneeze1":"rest","gum1":"rest","gum2":"rest","whistle2":"rest","sneeze2":"rest","gum3":"rest","gumpop":"rest","hearts":"rest","stars":"rest","snore":"rest","shy":"rest","sick":"rest","pain":"pain","chu":"chu","rest":"rest"};
 
           // sixteen gaze directions plus half and closed lids: each is a whole picture of her, swapped like any other face
           const RING = ['e', 'ene', 'ne', 'nne', 'n', 'nnw', 'nw', 'wnw', 'w', 'wsw', 'sw', 'ssw', 's', 'sse', 'se', 'ese'];
           const EYEFILE = {e: 'right', ene: 'ene', ne: 'upright', nne: 'nne', n: 'up', nnw: 'nnw', nw: 'wnw', wnw: 'wnw', w: 'left', wsw: 'wsw', sw: 'downleft', ssw: 'ssw', s: 'down', sse: 'sse', se: 'downright', ese: 'ese', half: 'half', closed: 'closed'};
-          const HAIRS = ['pink', 'purple'];
 
           const OVER = 1.7, N = 72, M = N + 1, SPAN = OVER / N, ORIGIN = .5 - OVER / 2;
           const WOBBLE = 2.3 * 2 * Math.PI, REACH = .085 / SPAN, C = REACH * WOBBLE, GAMMA = 2 * .14 * WOBBLE, NU = .2 * C;
@@ -196,7 +195,6 @@
           let logical = 'rest', logicalMs = 70, eyeNow = 'rest', eyeNowMs = 40;
           let nextBlink = 0, blinkStep = -1, blinkT = 0;
           let leanX = 0, leanY = 0, lvX = 0, lvY = 0, wantLean = [0, 0];
-          let hairI = -1;   // -1 is her own hair, then each colour in turn
           const pullNow = [0, 0];
 
           const fileOf = cell => cell === 'rest' ? 'rest' : EYEFILE[cell];
@@ -209,7 +207,6 @@
           }
           function compose(now) {
             if (logical !== 'rest') show(logical, logicalMs, now);
-            else if (hairI >= 0) show(HAIRS[hairI], 70, now);   // no gaze pictures exist in colour, so she faces front
             else show(fileOf(eyeNow), eyeNowMs, now);
           }
           const ringFor = (dx, dy) => RING[Math.round(((Math.atan2(-dy, dx) + Math.PI * 2) % (Math.PI * 2)) / (Math.PI / 8)) % 16];

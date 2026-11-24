@@ -63,7 +63,6 @@ export function HeroSection({ onContactClick }: HeroSectionProps) {
 
       {/* Living Portrait (centered both ways, NO Magnet effect) */}
       <div className="hero-portrait-wrap" id="magnetWrap">
-        <FadeIn delay={0.6} y={30}>
           <div className="hero-portrait-inner" id="magnetInner">
             <img
               id="faceFallback"
@@ -97,7 +96,6 @@ export function HeroSection({ onContactClick }: HeroSectionProps) {
               </svg>
             </div>
           </div>
-        </FadeIn>
       </div>
 
       {/* Bottom Bar */}
