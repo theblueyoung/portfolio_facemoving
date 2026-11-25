@@ -313,7 +313,7 @@
           addEventListener('scroll', () => { const n = performance.now(); if (Math.abs(scrollY - lastScroll) > 2) { scrollUntil = n + 500; lastScroll = scrollY; } wake(n); }, {passive: true});
 
           let flyPos = [1.4, 0], visible = true;
-          new IntersectionObserver(es => { visible = es[0].isIntersecting; }, {threshold: 0}).observe(canvas);
+          new IntersectionObserver(es => { visible = es[es.length - 1].isIntersecting; }, {threshold: 0}).observe(canvas);
           new ResizeObserver(() => { const r = Math.min(devicePixelRatio || 1, 2), b = canvas.getBoundingClientRect(); canvas.width = b.width * r; canvas.height = b.height * r; gl.viewport(0, 0, canvas.width, canvas.height); }).observe(canvas);
 
           // ---- frame ----
