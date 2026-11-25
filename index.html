@@ -29,7 +29,7 @@
         // A photo-like head on a soft sheet. Every expression, gaze and blink is a separately generated
         // picture of the same face; the code only decides which one to show and makes the skin move.
         (() => {
-          const url = id => '/face/' + id + '.png';
+          const url = id => 'face/' + id + '.png';
           const IDS = {"left":"right","closed":"closed","shock":"pain","tongue":"rest","right":"left","downleft":"right","upright":"left","up":"rest","downright":"left","down":"rest","half":"rest","cross":"rest","angry":"pain","scrunch":"pain","winkr":"rest","winkl":"rest","raised":"rest","puff":"rest","laugh":"rest","yawn":"rest","grin":"rest","kiss":"chu","cry":"rest","smug":"rest","scared":"pain","fish":"rest","blue":"rest","dizzy":"pain","blonde":"rest","pink":"rest","purple":"rest","wind":"rest","sse":"rest","nnw":"rest","ese":"left","ene":"left","wnw":"right","ssw":"rest","wsw":"right","ouch":"pain","deadpan":"rest","yawn1":"rest","yawn2":"rest","whistle1":"rest","nne":"rest","yawn4":"rest","sneeze1":"rest","gum1":"rest","gum2":"rest","whistle2":"rest","sneeze2":"rest","gum3":"rest","gumpop":"rest","hearts":"rest","stars":"rest","snore":"rest","shy":"rest","sick":"rest","pain":"pain","chu":"chu","rest":"rest"};
 
           // sixteen gaze directions plus half and closed lids: each is a whole picture of her, swapped like any other face

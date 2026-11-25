@@ -66,7 +66,7 @@ export function HeroSection({ onContactClick }: HeroSectionProps) {
           <div className="hero-portrait-inner" id="magnetInner">
             <img
               id="faceFallback"
-              src="/face/rest.png"
+              src="face/rest.png"
               alt="Portrait"
               referrerPolicy="no-referrer"
             />
